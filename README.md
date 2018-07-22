@@ -1,5 +1,5 @@
 # statistical-methods-primer
-> A short primer for statistical methods and A prerequisite to Machine Learning.
+> A primer for statistical methods and A prerequisite to Machine Learning. Current phase: *beginning*.
 
 ## Sections
 - [To do](https://github.com/Jishanshaikh4/statistical-methods-primer/blob/master/README.md#to-do)
