@@ -2,9 +2,9 @@
 > A short primer for statistical methods and A prerequisite to Machine Learning.
 
 ## Sections
-- [To do]()
-- [Contributions]()
-- [License]()
+- [To do](https://github.com/Jishanshaikh4/statistical-methods-primer/blob/master/README.md#to-do)
+- [Contributions](https://github.com/Jishanshaikh4/statistical-methods-primer/blob/master/README.md#contributions)
+- [License](https://github.com/Jishanshaikh4/statistical-methods-primer/blob/master/README.md#license)
 
 ## To do
 - Short term goals
