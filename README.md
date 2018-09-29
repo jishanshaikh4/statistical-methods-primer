@@ -15,7 +15,7 @@
   - Create a main.tex file. (DONE)
   - Add content front matter, back matter, and main layout of document. (NOT DONE YET)
   - Add technical content for the subject. (NOT DONE YET)
-- Long term goals
+- Long term goals (Extend it)
   - Present it as a well-formatted, well-documented, well-explained document especially for beginners (NOT DONE YET)
   - Broadcast it to a larger scale. (NOT DONE YET)
 
