@@ -1,4 +1,4 @@
-# statistical-methods-primer
+# :bar_chart: Statistical Methods Primer (Book)
 > A primer for statistical methods and A prerequisite to Machine Learning. 
 
 **Current phase:** *beginning*.
