@@ -5,6 +5,10 @@
 
 **% Completed:** *1%*
 
+## Title page
+
+![](https://github.com/Jishanshaikh4/statistical-methods-primer/blob/master/Sample-images/Title-page-1.png)
+
 ## Sections
 - [To do](https://github.com/Jishanshaikh4/statistical-methods-primer/blob/master/README.md#to-do)
 - [Contributions](https://github.com/Jishanshaikh4/statistical-methods-primer/blob/master/README.md#contributions)
